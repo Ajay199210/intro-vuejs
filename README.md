@@ -3,13 +3,15 @@
 Ce projet est une application full-stack qui permet aux utilisateurs de gérer des événements. Le frontend est développé en Vue.js, tandis que l'API backend est propulsée par ASP.NET Core.
 
 
-**Objectifs**
+## Objectifs
 
 * Développement d’application Web UI (SPA) avec le Framework VueJS
 * Installation des outils de développement et de débogage (VueCLI)
 * Sécurisation d’une application web UI avec OIDC (OpenID Connect)
 * Consommation d’une API web à partir d’une application Web UI
 * Mise en pratique des bonnes pratiques d’accessibilités
+
+![Home Page](https://github.com/Ajay199210/intro-vuejs/blob/main/Frontend/home.png)
 
 ## Détails
 
@@ -52,6 +54,8 @@ Svp notez que pour s'authentifier avec **IdentityServer4**, les noms d'utilisate
 |:---:|:---:|
 | admin | Pass-123 |
 | manager | Pass-123 |
+
+![Login](https://github.com/Ajay199210/intro-vuejs/blob/main/Frontend/login.png)
 
 ## Contributions
 
